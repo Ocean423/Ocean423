@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Ocean&animation=twinkling&height=200&fontColor=fffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Ocean&animation=twinkling&height=200&fontColor=ffffff)
