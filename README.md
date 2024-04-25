@@ -27,7 +27,7 @@
 <br>
 <a href="https://github.com/Ocean423"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%23F8E4EE&title_bg=%23FCE7F2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-
+[![soyoung's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=soyoung)]
 
 
 
