@@ -28,3 +28,4 @@
 </p>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%23FAC8E1&title_bg=%23FAC8E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+{<img src="https://wakatime.com/badge/user/f13772ad-470f-432b-8bc9-8c84243579d2.svg" alt="wakatime" />}[https://wakatime.com/@f13772ad-470f-432b-8bc9-8c84243579d2]
