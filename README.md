@@ -27,4 +27,4 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff">
 </p>
 
-<a href="https://github.com/Ocean423"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%23FAB0D4&title_bg=%92a8d1&icon=&icon_color=%92a8d1&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%23FAC8E1&title_bg=%23FAC8E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
