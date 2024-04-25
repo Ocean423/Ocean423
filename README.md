@@ -10,6 +10,7 @@
 </a>
 <br>
 <h3>📚 Tech Stack 📚</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2D1D1&height=1&section=footer&text=&fontSize=0" width="100%"/>
 <p>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
