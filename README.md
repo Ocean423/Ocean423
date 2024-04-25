@@ -19,7 +19,7 @@
 </p>
 <br>
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=soyoung&include_all_commits=true&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff">&nbsp
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=soyoung&include_all_commits=true&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff">&nbsp
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff">
 </p>
 
