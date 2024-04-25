@@ -16,6 +16,8 @@
 <a href="mailto:ssh0040233@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2D1D1&height=1&section=footer&text=&fontSize=0" width="100%"/>
 <p>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=soyoung&include_all_commits=true&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff">&nbsp
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff">
