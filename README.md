@@ -16,6 +16,9 @@
 <a href="https://velog.io/@ocean423/posts">
         <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@ocean423"/>
 </a>
+<a href="https://velog.io/@ocean423/posts">
+        <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@ocean423"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2D1D1&height=1&section=footer&text=&fontSize=0" width="100%"/>
 <p>
