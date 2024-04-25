@@ -21,11 +21,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=YebinKim&count_private=true&custom_title=Mumani's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff" alt="YebinKim's github stats">
-</a>
-<br>
-<a href="https://github.com/Ocean423/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff" alt="Top Langs">
-</a>
+<p>
+        <a href="https://github.com/Ocean423/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=soyoung&count_private=true&custom_title=SoYoung's&nbsp;github&nbsp;&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff" alt="SoYoung's github stats">
+        </a>
+        <a href="https://github.com/Ocean423/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff" alt="Top Langs">
+        </a>
+        
+</p>
+
 
