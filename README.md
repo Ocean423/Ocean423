@@ -3,7 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=C6538C&repeat=false&random=false&width=435&lines=Welcome+to+Soyoung's+GitHub" alt="Typing SVG" /></a>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2D1D1&height=1&section=footer&text=&fontSize=0" width="100%"/>
-<br>
 <h3>💻 Tech Stack 💻</h3>
 <p>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
