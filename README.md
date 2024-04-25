@@ -21,4 +21,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <hr>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%239CBCF1&title_bg=%23CBE1F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+[![SoYoung's github stats](https://github-readme-stats.vercel.app/api?username=soyoung&count_private=true&custom_title=soyoung's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/Ocean423/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungim&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/Ocean423/github-readme-stats)
