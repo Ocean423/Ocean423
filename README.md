@@ -3,8 +3,7 @@
 
 <a href="mailto:ssh0040233@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
+</a>
 <h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp 
