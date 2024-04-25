@@ -17,8 +17,8 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 </p>
 <p>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=soyoung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">&nbsp
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=soyoung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">&nbsp
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <hr>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%239CBCF1&title_bg=%23CBE1F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
