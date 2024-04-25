@@ -17,7 +17,9 @@
                 <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@ocean423"/>
         
 </p>
-
+<a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
+  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D2D1D1&height=1&section=footer&text=&fontSize=0" width="100%"/>
 <p>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=soyoung&include_all_commits=true&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff">&nbsp
