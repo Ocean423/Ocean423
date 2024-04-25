@@ -9,4 +9,4 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 <hr>
-![](https://visitor-badge.glitch.me/badge?page_id=Ocean423)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%239CBCF1&title_bg=%23CBE1F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
