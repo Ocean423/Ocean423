@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 </p>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soyoung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soyoung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">&nbsp
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <hr>
