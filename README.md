@@ -14,7 +14,7 @@
 
 <br>
 
-### 🍀 Follow Me 🍀
+### 🍀 Contact 🍀
 <p>
   <a href="https://velog.io/@ocean423"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@ocean423"/></a>&nbsp
   <a href="mailto:ssh0040233@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ssh0040233@gmail.com"/></a>
@@ -30,5 +30,4 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=1&section=footer&text=&fontSize=0" width="100%"/>
 <br>
 
-<a href="https://github.com/Ocean423"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%23F8E4EE&title_bg=%23FCE7F2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<a href="https://wakatime.com/@f13772ad-470f-432b-8bc9-8c84243579d2"><img src="https://wakatime.com/badge/user/f13772ad-470f-432b-8bc9-8c84243579d2.svg" alt="Total time coded since Feb 20 2023" /></a>
+<a href="https://github.com/Ocean423"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOcean423&count_bg=%23FAB0D4&title_bg=%23E275AB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
