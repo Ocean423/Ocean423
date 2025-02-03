@@ -6,6 +6,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About me </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Frontend Developer </div> 
+  
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Tech Stacks </h2>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
