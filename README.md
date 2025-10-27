@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
   
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀 Contact me </h2> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀 Contact  me </h2> 
   <a href=https://velog.io/@ocean423> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ocean423"></a>
   <a href=mailto:ssh0040233@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ssh0040233@gmail.com"></a>
   <br/><br/>
