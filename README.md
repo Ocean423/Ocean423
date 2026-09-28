@@ -29,4 +29,4 @@
   <a href=https://velog.io/@ocean423> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ocean423"></a>
   <a href=mailto:ssh0040233@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ssh0040233@gmail.com"></a>
   <br/><br/>
-</div>
+</div> 
