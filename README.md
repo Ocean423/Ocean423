@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&animation=fadeIn&text=*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪&color=98FB98&stroke=98FB98&fontColor=FFFFFF&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=circle&height=300&color=98FB98&text=*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪&fontColor=FFFFFF)
 
 <!-- Body -->
 <div style="text-align: left;">
