@@ -1,7 +1,6 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=circle&height=300&color=98FB98&text=*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪&fontColor=FFFFFF)
-
-<!-- Body -->
+<!-- Header  -->
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&animation=twinkling&text=*•♫♪¸¸.•*¨*•♫♪¸¸.•*¨*•♫♪&color=98FB98&stroke=98FB98&fontColor=FFFFFF&strokeWidth=2)
+<!-- Body  -->
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About me</h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Frontend Developer </div> 
@@ -26,8 +25,8 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
   
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀 Contact me </h2> 
-  <a href="https://velog.io/@ocean423"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
-  <a href="mailto:ssh0040233@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀 Contact  me </h2> 
+  <a href=https://velog.io/@ocean423> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ocean423"></a>
+  <a href=mailto:ssh0040233@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ssh0040233@gmail.com"></a>
   <br/> <br/>
-</div>
+</div> 
